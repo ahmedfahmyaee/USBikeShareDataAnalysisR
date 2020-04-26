@@ -1,1 +1,1 @@
-BikeShare data anlysis project for Udacity Nanodegree
+BikeShare Data Analysis project for Udacity Programming for Data science with R Nanodegree
