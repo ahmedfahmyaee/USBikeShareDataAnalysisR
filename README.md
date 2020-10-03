@@ -1,20 +1,20 @@
 Date created:
 30-9-2020
-___________
+____________
 
 Project Title:
 US BikeShare Data Analysis
-___________
+____________
 
 Description:
 BikeShare Data Analysis project for Udacity Programming for Data science with R Nanodegree – Final Project – For Graduation
-___________
+____________
 
 Files used:
 README.md
 USBikeShareDataAnalysis.ipynb
 p.gitignore
-___________
+____________
 
 Credits:
 NA
